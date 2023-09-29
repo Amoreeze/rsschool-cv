@@ -1,1 +1,1 @@
-# rsschool-cv
+https://amoreeze.github.io/rsschool-cv/cv
