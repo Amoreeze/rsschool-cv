@@ -2,6 +2,7 @@
 2. Contacts
 2.1 e-mail: amoreeze@ya.ru
 2.2 tel: +79245207161
+2.3 discord: Amoreeze
 3. I am 31. I live in Vladivostok.I studied at the Far Eastern Federal University. I have a bachelor's degree in software engineering and information systems administration. I want to graduate from PC school and work as a front-end programmer.
 4. I know the basics of C++ programming, github, html and css.
 5.
